@@ -93,7 +93,6 @@ def checkperson(outsidequeue, inside):
 
 #insert code to remove person after they run out of money
 
-
 #code to display inside
 def display_inside(inside):
     for person in inside:
